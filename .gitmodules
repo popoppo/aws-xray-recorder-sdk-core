@@ -1,0 +1,3 @@
+[submodule "aws-xray-sdk-java"]
+	path = aws-xray-sdk-java
+	url = https://github.com/aws/aws-xray-sdk-java
